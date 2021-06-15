@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2021-06-15 19:33:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-10 15:49:52 +0530"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2021-06-15 18:39:38 +0530"
+    },
+    "done": true
+  },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
     "criteria": {
       "has_dye": "2021-06-10 19:35:47 +0530",
@@ -519,6 +531,24 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2021-06-10 16:14:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2021-06-15 18:47:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-06-15 18:11:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2021-06-15 18:39:38 +0530"
     },
     "done": true
   },
@@ -714,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-06-15 18:39:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-06-10 14:23:26 +0530"
@@ -808,8 +844,10 @@
     "criteria": {
       "minecraft:blaze": "2021-06-11 20:33:31 +0530",
       "minecraft:skeleton": "2021-06-10 19:58:06 +0530",
+      "minecraft:elder_guardian": "2021-06-15 18:45:51 +0530",
       "minecraft:ghast": "2021-06-15 16:51:32 +0530",
       "minecraft:hoglin": "2021-06-13 20:54:00 +0530",
+      "minecraft:guardian": "2021-06-15 18:42:48 +0530",
       "minecraft:magma_cube": "2021-06-11 20:31:54 +0530",
       "minecraft:spider": "2021-06-11 18:50:41 +0530",
       "minecraft:creeper": "2021-06-10 19:02:20 +0530",
@@ -929,6 +967,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2021-06-11 20:29:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-06-15 18:39:38 +0530"
     },
     "done": true
   },
@@ -1359,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-06-15 18:24:49 +0530"
+    },
+    "done": true
+  },
   "vanillatweaks:wandering_trades": {
     "criteria": {
       "tick": "2021-06-10 14:18:49 +0530"
@@ -1410,6 +1460,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-06-11 18:23:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-06-15 18:11:46 +0530"
     },
     "done": true
   },
@@ -1500,6 +1556,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-06-10 19:39:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-06-15 18:24:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-06-15 18:11:46 +0530"
     },
     "done": true
   },
@@ -1762,6 +1830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-06-15 18:15:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-10 15:49:52 +0530"
@@ -1864,6 +1938,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/mossy_cobblestone": {
     "criteria": {
       "has_stairs": "2021-06-10 15:24:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-06-15 18:24:09 +0530"
     },
     "done": true
   },
@@ -2044,6 +2124,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-06-11 19:11:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-06-15 18:24:09 +0530"
     },
     "done": true
   },
@@ -2259,6 +2345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-06-15 19:11:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-06-10 19:38:37 +0530"
@@ -2443,6 +2535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-06-15 18:11:46 +0530"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/jungle_planks": {
     "criteria": {
       "has_stairs": "2021-06-10 15:24:25 +0530"
@@ -2552,6 +2650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2021-06-15 18:39:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-06-10 14:25:30 +0530"
@@ -2591,6 +2695,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/nether_bricks": {
     "criteria": {
       "has_stairs": "2021-06-10 15:24:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-06-15 19:11:24 +0530"
     },
     "done": true
   },
@@ -3266,6 +3376,12 @@
       "has_string": "2021-06-10 15:24:25 +0530",
       "has_block": "2021-06-10 15:24:25 +0530",
       "has_stick": "2021-06-10 15:24:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-06-15 18:39:38 +0530"
     },
     "done": true
   },
