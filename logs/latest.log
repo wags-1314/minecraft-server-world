@@ -1,92 +1,179 @@
-[18:33:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:33:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:33:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:33:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:33:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:33:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:33:59] [main/INFO]: Reloading ResourceManager: Default, armor statues v2.8.1.zip, double shulker shells v1.3.0.zip, durability ping v1.1.0.zip, fast leaf decay v2.0.3.zip, graves v2.8.2.zip, more mob heads v2.9.1.zip, multiplayer sleep v2.6.1.zip, player head drops v1.1.0.zip, silence mobs v1.1.0.zip, timber v2.1.1.zip, track raw statistics v1.4.0.zip, track statistics v1.1.0.zip, villager workstation highlights v1.1.0.zip, wandering trades hermit edition v1.5.0.zip, VanillaTweaks_c173161.zip
-[18:34:01] [Worker-Main-13/INFO]: Loaded 7 recipes
-[18:34:01] [Worker-Main-13/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
-[18:34:02] [Worker-Main-13/INFO]: Loaded 1302 advancements
-[18:34:04] [Server thread/INFO]: Starting minecraft server version 1.17
-[18:34:04] [Server thread/INFO]: Loading properties
-[18:34:04] [Server thread/INFO]: Default game type: SURVIVAL
-[18:34:04] [Server thread/INFO]: Generating keypair
-[18:34:04] [Server thread/INFO]: Starting Minecraft server on 25.36.182.94:25565
-[18:34:04] [Server thread/INFO]: Using default channel type
-[18:34:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:34:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:34:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:34:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:34:05] [Server thread/INFO]: Preparing level "world"
-[18:34:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:34:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:34:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:34:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:34:06] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[18:34:07] [Worker-Main-11/INFO]: Preparing spawn area: 1%
-[18:34:07] [Worker-Main-14/INFO]: Preparing spawn area: 1%
-[18:34:08] [Worker-Main-11/INFO]: Preparing spawn area: 3%
-[18:34:08] [Worker-Main-8/INFO]: Preparing spawn area: 7%
-[18:34:09] [Worker-Main-9/INFO]: Preparing spawn area: 21%
-[18:34:10] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[18:34:10] [Worker-Main-9/INFO]: Preparing spawn area: 27%
-[18:34:10] [Worker-Main-12/INFO]: Preparing spawn area: 40%
-[18:34:11] [Worker-Main-13/INFO]: Preparing spawn area: 62%
-[18:34:17] [Worker-Main-9/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-11/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-11/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-11/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-9/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-9/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-9/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-8/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-8/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-11/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-14/INFO]: Preparing spawn area: 74%
-[18:34:17] [Worker-Main-14/INFO]: Preparing spawn area: 74%
-[18:34:22] [Server thread/INFO]: Time elapsed: 17364 ms
-[18:34:22] [Server thread/INFO]: Done (17.531s)! For help, type "help"
-[18:34:50] [Server thread/INFO]: Nick_Kun[/25.36.182.94:65290] logged in with entity id 238 at (282.7599275371223, 62.07326337273624, 1779.5839620913998)
-[18:34:50] [Server thread/INFO]: Nick_Kun joined the game
-[18:34:56] [Server thread/INFO]: bolttacle[/25.42.215.7:59601] logged in with entity id 470 at (282.7620105913962, 63.085763310095984, 1692.875846146524)
-[18:34:56] [Server thread/INFO]: bolttacle joined the game
-[18:36:02] [Server thread/INFO]: A_MC_Warrior[/25.28.161.64:60825] logged in with entity id 567 at (280.74830800794285, 61.97539405457799, 1701.265846817075)
-[18:36:02] [Server thread/INFO]: A_MC_Warrior joined the game
-[18:38:01] [Server thread/INFO]: A_MC_Warrior drowned
-[18:39:24] [Server thread/WARN]: Boat (vehicle of A_MC_Warrior) moved too quickly! 8.653885613745473,0.0,5.754043765233007
-[18:39:24] [Server thread/WARN]: Boat (vehicle of A_MC_Warrior) moved too quickly! 8.984688484619177,0.0,5.978790858818456
-[18:39:24] [Server thread/WARN]: Boat (vehicle of A_MC_Warrior) moved too quickly! 9.31543363559895,0.0,6.203632387419532
-[18:39:24] [Server thread/WARN]: Boat (vehicle of A_MC_Warrior) moved too quickly! 9.6461246742819,0.0,6.42856207402923
-[18:39:24] [Server thread/WARN]: Boat (vehicle of A_MC_Warrior) moved too quickly! 9.976767011898993,0.0,6.65357110284458
-[18:41:41] [Server thread/INFO]: [Nick_Kun: Successfully filled 1 blocks]
-[19:07:21] [Server thread/INFO]: [Nick_Kun: Teleported Nick_Kun to A_MC_Warrior]
-[19:07:21] [Server thread/WARN]: Nick_Kun moved too quickly! -244.74802118607712,4.968329066545017,-1703.2743319354274
-[19:07:34] [Server thread/INFO]: [Nick_Kun: Teleported bolttacle to A_MC_Warrior]
-[19:11:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=79, y=63, z=97} gg{x=79, y=62, z=96}
-[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=79, y=63, z=97} gg{x=78, y=63, z=96}
-[19:11:56] [Server thread/INFO]: A_MC_Warrior lost connection: Disconnected
-[19:11:56] [Server thread/INFO]: A_MC_Warrior left the game
-[19:12:02] [Server thread/INFO]: A_MC_Warrior[/25.28.161.64:59487] logged in with entity id 6445 at (78.40129003955319, 64.0, 96.73943624504672)
-[19:12:02] [Server thread/INFO]: A_MC_Warrior joined the game
-[19:27:52] [Server thread/INFO]: A_MC_Warrior has made the advancement [Ice Bucket Challenge]
-[19:31:49] [Server thread/INFO]: A_MC_Warrior tried to swim in lava
-[19:36:31] [Server thread/INFO]: Nick_Kun lost connection: Disconnected
-[19:36:31] [Server thread/INFO]: Nick_Kun left the game
-[19:36:43] [Server thread/INFO]: A_MC_Warrior lost connection: Disconnected
-[19:36:43] [Server thread/INFO]: A_MC_Warrior left the game
-[19:36:44] [Server thread/INFO]: bolttacle lost connection: Disconnected
-[19:36:44] [Server thread/INFO]: bolttacle left the game
-[19:36:52] [Server thread/INFO]: Stopping the server
-[19:36:52] [Server thread/INFO]: Stopping server
-[19:36:52] [Server thread/INFO]: Saving players
-[19:36:52] [Server thread/INFO]: Saving worlds
-[19:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:36:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:36:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:36:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:36:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:36:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:36:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:33:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:33:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:33:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:33:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:37] [main/INFO]: Reloading ResourceManager: Default, armor statues v2.8.1.zip, double shulker shells v1.3.0.zip, durability ping v1.1.0.zip, fast leaf decay v2.0.3.zip, graves v2.8.2.zip, more mob heads v2.9.1.zip, multiplayer sleep v2.6.1.zip, player head drops v1.1.0.zip, silence mobs v1.1.0.zip, timber v2.1.1.zip, track raw statistics v1.4.0.zip, track statistics v1.1.0.zip, villager workstation highlights v1.1.0.zip, wandering trades hermit edition v1.5.0.zip, VanillaTweaks_c173161.zip
+[15:33:40] [Worker-Main-10/INFO]: Loaded 7 recipes
+[15:33:41] [Worker-Main-10/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[15:33:42] [Worker-Main-10/INFO]: Loaded 1302 advancements
+[15:33:44] [Server thread/INFO]: Starting minecraft server version 1.17
+[15:33:44] [Server thread/INFO]: Loading properties
+[15:33:44] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:44] [Server thread/INFO]: Generating keypair
+[15:33:44] [Server thread/INFO]: Starting Minecraft server on 25.36.182.94:25565
+[15:33:44] [Server thread/INFO]: Using default channel type
+[15:33:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:33:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:33:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:33:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:33:45] [Server thread/INFO]: Preparing level "world"
+[15:33:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:33:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:33:46] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:33:47] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:33:47] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:33:48] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:33:48] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[15:33:49] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[15:33:49] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[15:33:50] [Worker-Main-10/INFO]: Preparing spawn area: 10%
+[15:33:50] [Worker-Main-8/INFO]: Preparing spawn area: 19%
+[15:33:51] [Worker-Main-10/INFO]: Preparing spawn area: 27%
+[15:33:52] [Worker-Main-11/INFO]: Preparing spawn area: 27%
+[15:33:52] [Worker-Main-11/INFO]: Preparing spawn area: 27%
+[15:33:52] [Worker-Main-11/INFO]: Preparing spawn area: 36%
+[15:33:53] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[15:33:53] [Worker-Main-12/INFO]: Preparing spawn area: 60%
+[15:33:54] [Worker-Main-9/INFO]: Preparing spawn area: 81%
+[15:34:02] [Worker-Main-11/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-10/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-13/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-13/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-13/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-11/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-11/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-11/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-10/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-13/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-10/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-10/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-10/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-13/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-10/INFO]: Preparing spawn area: 97%
+[15:34:02] [Worker-Main-13/INFO]: Preparing spawn area: 97%
+[15:34:03] [Server thread/INFO]: Time elapsed: 17125 ms
+[15:34:03] [Server thread/INFO]: Done (17.314s)! For help, type "help"
+[15:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[15:37:20] [Server thread/INFO]: bolttacle[/25.42.215.7:59297] logged in with entity id 234 at (39.72740261548307, 128.0, 222.7534024123447)
+[15:37:20] [Server thread/INFO]: bolttacle joined the game
+[15:37:37] [Server thread/INFO]: Nick_Kun[/25.36.182.94:63972] logged in with entity id 348 at (39.285288983832274, 132.0, 219.76150141693628)
+[15:37:37] [Server thread/INFO]: Nick_Kun joined the game
+[15:39:06] [Server thread/WARN]: Nick_Kun moved too quickly! 9.695226626985033,-1.176759275064228,-3.2769782289213083
+[15:39:06] [Server thread/WARN]: bolttacle moved too quickly! 8.780912811556561,1.0013359791121559,-5.20147209618645
+[15:47:10] [Server thread/WARN]: bolttacle moved too quickly! -910.9850105633116,11.265900001525878,-1404.3985309641373
+[16:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[16:11:42] [Server thread/INFO]: A_MC_Warrior[/25.28.161.64:65234] logged in with entity id 15279 at (37.73243773833316, 132.0, 222.45375117654422)
+[16:11:42] [Server thread/INFO]: A_MC_Warrior joined the game
+[16:14:58] [Server thread/INFO]: [Nick_Kun: Set own game mode to Creative Mode]
+[16:15:25] [Server thread/INFO]: [Nick_Kun: Teleported Nick_Kun to 46.500000, 129.000000, 216.500000]
+[16:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:16:09] [Server thread/WARN]: Nick_Kun moved too quickly! -0.27527281320334396,3.7500001490106314,-9.53353142791184
+[16:16:39] [Server thread/INFO]: <Nick_Kun> 32
+[16:16:55] [Server thread/INFO]: <Nick_Kun> 191
+[16:17:03] [Server thread/INFO]: [Nick_Kun: Teleported Nick_Kun to A_MC_Warrior]
+[16:18:35] [Server thread/INFO]: [Nick_Kun: Set own game mode to Survival Mode]
+[16:18:41] [Server thread/INFO]: Nick_Kun was shot by A_MC_Warrior
+[16:18:54] [Server thread/INFO]: Nick_Kun lost connection: Disconnected
+[16:18:54] [Server thread/INFO]: Nick_Kun left the game
+[16:20:46] [Server thread/INFO]: Nick_Kun[/25.36.182.94:61381] logged in with entity id 18384 at (35.67883896336547, 128.0, 190.35046746734625)
+[16:20:46] [Server thread/INFO]: Nick_Kun joined the game
+[16:21:02] [Server thread/INFO]: [Nick_Kun: Teleported Nick_Kun to A_MC_Warrior]
+[16:28:41] [Server thread/INFO]: A_MC_Warrior lost connection: Disconnected
+[16:28:41] [Server thread/INFO]: A_MC_Warrior left the game
+[16:31:42] [Server thread/INFO]: A_MC_Warrior[/25.28.161.64:56830] logged in with entity id 22008 at (13.391318933133421, 64.0, 60.015514785811014)
+[16:31:42] [Server thread/INFO]: A_MC_Warrior joined the game
+[16:37:39] [Server thread/INFO]: [Nick_Kun: Gave 64 [Bottle o' Enchanting] to Nick_Kun]
+[16:39:18] [Server thread/INFO]: Nick_Kun lost connection: Disconnected
+[16:39:18] [Server thread/INFO]: Nick_Kun left the game
+[16:42:46] [Server thread/INFO]: Seed: [-756040440550813719]
+[16:42:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:42:52] [Server thread/INFO]: -756040440550813719<--[HERE]
+[16:42:57] [Server thread/INFO]: Invalid name or UUID
+[16:42:57] [Server thread/INFO]: /title -756040440550813719<--[HERE]
+[16:43:04] [Server thread/INFO]: You whisper to bolttacle: -756040440550813719
+[16:43:04] [Server thread/INFO]: You whisper to A_MC_Warrior: -756040440550813719
+[16:45:09] [Server thread/INFO]: <A_MC_Warrior> 490 -690
+[16:45:37] [Server thread/WARN]: Horse (vehicle of bolttacle) moved wrongly! 0.2694063659770052
+[16:46:08] [Server thread/INFO]: <A_MC_Warrior> 61 -86
+[16:48:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:51:55] [Server thread/INFO]: <A_MC_Warrior> 502 -699
+[16:58:51] [Server thread/INFO]: <A_MC_Warrior> do you have sponge?
+[16:59:01] [Server thread/INFO]: <bolttacle> yes
+[16:59:04] [Server thread/INFO]: <A_MC_Warrior> pls gib
+[16:59:13] [Server thread/INFO]: <A_MC_Warrior> thenks
+[17:03:59] [Server thread/INFO]: <A_MC_Warrior> can you sleep
+[17:28:49] [Server thread/INFO]: <A_MC_Warrior> can you sleep
+[17:33:39] [Server thread/INFO]: A_MC_Warrior lost connection: Disconnected
+[17:33:39] [Server thread/INFO]: A_MC_Warrior left the game
+[17:43:21] [Server thread/INFO]: Nick_Kun[/25.36.182.94:53525] logged in with entity id 47347 at (92.52714679989788, 9.875, 161.69999998807907)
+[17:43:21] [Server thread/INFO]: Nick_Kun joined the game
+[17:43:39] [Server thread/INFO]: Nick_Kun lost connection: Disconnected
+[17:43:39] [Server thread/INFO]: Nick_Kun left the game
+[18:12:56] [Server thread/INFO]: bolttacle has made the advancement [Hot Stuff]
+[18:47:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-86, y=45, z=209} gg{x=-86, y=44, z=209}
+[19:50:19] [Server thread/INFO]: Nick_Kun[/25.36.182.94:55533] logged in with entity id 64096 at (92.52714679989788, 9.875, 161.69999998807907)
+[19:50:19] [Server thread/INFO]: Nick_Kun joined the game
+[19:50:41] [Server thread/INFO]: [Nick_Kun: Teleported Nick_Kun to bolttacle]
+[19:50:41] [Server thread/WARN]: Nick_Kun moved too quickly! -157.68489732332557,44.0,80.44608421935806
+[20:02:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2, y=72, z=74} gg{x=2, y=73, z=73}
+[20:13:45] [Server thread/INFO]: Nick_Kun was slain by Zombie
+[20:25:56] [Server thread/INFO]: <bolttacle> ADSW
+[21:20:37] [Server thread/INFO]: A_MC_Warrior[/25.28.161.64:58271] logged in with entity id 81147 at (-20.732210072147318, 63.0, 184.11083793627526)
+[21:20:37] [Server thread/INFO]: A_MC_Warrior joined the game
+[21:22:37] [Server thread/INFO]: [Nick_Kun: Set own game mode to Spectator Mode]
+[21:22:43] [Server thread/INFO]: [Nick_Kun: Teleported Nick_Kun to A_MC_Warrior]
+[21:22:43] [Server thread/WARN]: Nick_Kun moved too quickly! -11.420726907571883,-6.687817287988764,23.709863205435028
+[21:22:43] [Server thread/WARN]: Nick_Kun moved too quickly! -11.420726907571883,-6.687817287988764,23.709863205435028
+[21:23:05] [Server thread/INFO]: [Nick_Kun: Applied effect Night Vision to Nick_Kun]
+[21:24:05] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=166, y=41, z=670} gg{x=166, y=40, z=670}
+[21:24:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=166, y=41, z=670} gg{x=166, y=40, z=670}
+[21:24:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=166, y=41, z=670} gg{x=166, y=40, z=670}
+[21:25:32] [Server thread/INFO]: [Nick_Kun: Teleported A_MC_Warrior to Nick_Kun]
+[21:25:32] [Server thread/WARN]: A_MC_Warrior moved too quickly! 58.67732026247515,-0.24608818796502874,-152.46569291685148
+[21:27:36] [Server thread/INFO]: A_MC_Warrior lost connection: Disconnected
+[21:27:36] [Server thread/INFO]: A_MC_Warrior left the game
+[21:27:39] [Server thread/INFO]: [Nick_Kun: Set own game mode to Survival Mode]
+[21:28:06] [Server thread/INFO]: Nick_Kun fell out of the world
+[21:28:06] [Server thread/INFO]: [Nick_Kun: Killed Nick_Kun]
+[21:28:20] [Server thread/INFO]: [Nick_Kun: Teleported bolttacle to Nick_Kun]
+[21:28:20] [Server thread/WARN]: bolttacle moved too quickly! -144.07977094814225,1.2651220500912572,-549.7879163026522
+[21:28:35] [Server thread/INFO]: [Nick_Kun: Set own game mode to Spectator Mode]
+[21:28:53] [Server thread/INFO]: [Nick_Kun: Teleported bolttacle to Nick_Kun]
+[21:28:53] [Server thread/WARN]: bolttacle moved too quickly! -24.485431385605942,6.517846678190615,29.604923916119645
+[21:31:28] [Server thread/INFO]: [Nick_Kun: Removed 2 items from 2 players]
+[21:32:47] [Server thread/INFO]: [Nick_Kun: Killed 31 entities]
+[21:33:03] [Server thread/INFO]: [Nick_Kun: Killed 4 entities]
+[21:33:34] [Server thread/INFO]: [Nick_Kun: Set own game mode to Creative Mode]
+[21:33:49] [Server thread/INFO]: Nick_Kun has made the advancement [Hot Stuff]
+[21:34:07] [Server thread/INFO]: [Nick_Kun: Teleported 2 entities to Nick_Kun]
+[21:34:07] [Server thread/WARN]: bolttacle moved too quickly! -36.79200378931507,-7.166109260938214,-40.56310575822744
+[21:34:07] [Server thread/WARN]: bolttacle moved too quickly! -36.79200378931507,-7.166109260938214,-40.56310575822744
+[21:34:09] [Server thread/INFO]: bolttacle tried to swim in lava
+[21:34:29] [Server thread/INFO]: [Nick_Kun: Teleported 370 entities to Nick_Kun]
+[21:34:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21:34:32] [Server thread/INFO]: bolttacle tried to swim in lava to escape Zombie
+[21:34:56] [Server thread/INFO]: [Nick_Kun: Teleported 164 entities to Nick_Kun]
+[21:34:58] [Server thread/INFO]: bolttacle was blown up by Creeper
+[21:35:13] [Server thread/INFO]: Nick_Kun fell out of the world
+[21:35:13] [Server thread/INFO]: bolttacle fell out of the world
+[21:35:13] [Server thread/INFO]: [Nick_Kun: Killed 182 entities]
+[21:35:33] [Server thread/INFO]: [Nick_Kun: Killed 111 entities]
+[21:37:12] [Server thread/INFO]: bolttacle lost connection: Disconnected
+[21:37:12] [Server thread/INFO]: bolttacle left the game
+[21:38:18] [Server thread/INFO]: Nick_Kun lost connection: Disconnected
+[21:38:18] [Server thread/INFO]: Nick_Kun left the game
+[21:40:04] [Server thread/INFO]: Stopping the server
+[21:40:04] [Server thread/INFO]: Stopping server
+[21:40:04] [Server thread/INFO]: Saving players
+[21:40:04] [Server thread/INFO]: Saving worlds
+[21:40:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:40:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:40:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:40:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
